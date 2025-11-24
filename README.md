@@ -51,6 +51,8 @@ a.   KVL:
 
 
 b.  KCL:
+
+
  <img width="917" height="603" alt="Screenshot 2025-11-20 064604" src="https://github.com/user-attachments/assets/156f592e-48c1-45a5-bd01-5f662b32b71c" />
 
 
